@@ -1,3 +1,5 @@
 print ("hola mundo")
 mensaje= "hola mundo"
 print (mensaje)
+nombre= inpunt("¿cual es tu nombre?")
+print ("hola{nombre}")
