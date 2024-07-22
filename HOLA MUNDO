@@ -1,11 +1,20 @@
 print ("hola mundo")
+///
 mensaje= "hola mundo"
 print (mensaje)
+///
 nombre= inpunt("¿cual es tu nombre?")
 print ("hola{nombre}")
+///
 resultado=(3+2) x 5x2
 print (resultado)
+///
 horas_trabajo= float(input"introduce el numero de horas trabajadas"))
 coste_por_hora= float (input(introduce el coste por hora: "))
 pago= horas_trabajo x coste_por_hora
 print("el pago que te corresponde es:{30000}¨")
+///
+n= int (input("introduce un numero entero: "))
+suma= nx(n+1) // 2
+print("la suma de {n} enteros es: {suma}")
+///
