@@ -3,3 +3,5 @@ mensaje= "hola mundo"
 print (mensaje)
 nombre= inpunt("¿cual es tu nombre?")
 print ("hola{nombre}")
+resultado=(3+2) x 5x2
+print (resultado)
