@@ -18,3 +18,14 @@ n= int (input("introduce un numero entero: "))
 suma= nx(n+1) // 2
 print("la suma de {n} enteros es: {suma}")
 ///
+# Solicitar al usuario el número de horas trabajadas
+horas_trabajadas = float(input("Introduce el número de horas trabajadas: "))
+
+# Solicitar al usuario el coste por hora
+coste_por_hora = float(input("Introduce el coste por hora: "))
+
+# Calcular la paga total
+paga_total = horas_trabajadas * coste_por_hora
+
+# Mostrar la paga total en pantalla
+print(f"La paga que te corresponde es: {paga_total:.2f} unidades monetarias.")
